@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resouces/1_detail.png</file>
+        <file>resouces/1_notice1.png</file>
+        <file>resouces/1_notice2.png</file>
+        <file>resouces/2_detail.png</file>
+        <file>resouces/2_notice1.png</file>
+        <file>resouces/3_detail.png</file>
+        <file>resouces/3_notice1.png</file>
+        <file>resouces/4_detail.png</file>
+        <file>resouces/4_notice1.png</file>
+        <file>resouces/5_detail.png</file>
+        <file>resouces/5_notice1.png</file>
+        <file>resouces/5_notice2.png</file>
+        <file>resouces/6_detail.png</file>
+        <file>resouces/6_notice1.png</file>
+        <file>resouces/6_notice2.png</file>
+        <file>resouces/7_detail.png</file>
+        <file>resouces/7_notice1.png</file>
+        <file>resouces/logo.PNG</file>
+    </qresource>
+</RCC>
