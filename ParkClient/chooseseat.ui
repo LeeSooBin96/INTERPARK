@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ChooseSeat</class>
+ <widget class="QStackedWidget" name="ChooseSeat">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>883</width>
+    <height>581</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>StackedWidget</string>
+  </property>
+  <widget class="QWidget" name="page"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
