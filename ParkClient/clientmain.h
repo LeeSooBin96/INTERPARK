@@ -20,5 +20,6 @@ public:
 
 private:
     Ui::ClientMain *ui;
+    QTcpSocket *tcpSocket;
 };
 #endif // CLIENTMAIN_H

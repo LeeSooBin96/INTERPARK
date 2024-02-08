@@ -12,3 +12,4 @@ ClientMain::~ClientMain()
 {
     delete ui;
 }
+

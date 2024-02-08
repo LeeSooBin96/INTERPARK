@@ -2,6 +2,10 @@
 #define SERVERMAIN_H
 
 #include <QMainWindow>
+#include <QtNetwork/QtNetwork>
+
+class QTcpServer;
+class QNetworkSession;
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -19,5 +23,6 @@ public:
 
 private:
     Ui::ServerMain *ui;
+    QTcpServer *tcpServer;
 };
 #endif // SERVERMAIN_H
