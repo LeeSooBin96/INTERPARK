@@ -18,5 +18,12 @@
         <file>resouces/7_detail.png</file>
         <file>resouces/7_notice1.png</file>
         <file>resouces/logo.PNG</file>
+        <file>resouces/1.png</file>
+        <file>resouces/2.png</file>
+        <file>resouces/3.png</file>
+        <file>resouces/4.png</file>
+        <file>resouces/5.png</file>
+        <file>resouces/6.png</file>
+        <file>resouces/7.png</file>
     </qresource>
 </RCC>
